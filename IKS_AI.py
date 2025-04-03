@@ -14,7 +14,7 @@ from docx import Document
 DEVELOPER_MODE = True
 
 # Google Gemini API configuration
-GEMINI_API_KEY = "AIzaSyCBEocevQYwHxHPTf0jv4PXsuhGyws9tDE"  # Replace with your actual API key
+GEMINI_API_KEY = "YOUR GEMINI API KEY"  # Replace with your actual API key
 genai.configure(api_key=GEMINI_API_KEY)
 
 def get_resource_path(relative_path):
