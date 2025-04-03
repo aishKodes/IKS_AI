@@ -22,5 +22,7 @@ Follow these steps to set up and run the application locally:
      pip install PyQt6
      pip install google-generativeai
      pip install python-docx
- 3.**Configure the API key.
+     
+ 3.Configure the API key.
+ 
  4. RUN THE APPLICATION.
